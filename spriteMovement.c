@@ -5,7 +5,7 @@ TODO:
       - Make bombs disappear after 5 seconds
       - Make player as animated sprite
 
-COMPILATION: $ cc bomberman.c `pkg-config --libs --cflags raylib`
+COMPILATION: $ cc spriteMovement.c `pkg-config --libs --cflags raylib`
 */
 
 #define MAX_WALLS 9
